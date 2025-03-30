@@ -22,7 +22,7 @@ This project demonstrates the implementation of a Library Management System usin
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
 ```sql
----Create table ìBranchî
+---Create table ‚ÄúBranch‚Äù
 CREATE TABLE Branch(
 Branch_ID VARCHAR(10) PRIMARY KEY,
 Manager_ID VARCHAR(10),
@@ -538,7 +538,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 ## How to Use
 
-1. ** Clone this project repository from GitHub. 
+1. Clone this project repository from GitHub. 
 
 2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
